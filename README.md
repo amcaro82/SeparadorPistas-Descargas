@@ -38,6 +38,6 @@ Puede salir este aviso porque el instalador no tiene firma digital. Haz clic en 
 
 ## Créditos
 
-Hecho por AMC.
+Hecho por AMC, Bogotá - Colombia.
 
 Usa [Demucs](https://github.com/facebookresearch/demucs) (Meta, licencia MIT) para separar las pistas y [FFmpeg](https://ffmpeg.org) para convertir el audio.
